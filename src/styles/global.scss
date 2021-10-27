@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+body {
+    background: #ebe9e9;   
+}
+
+body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif;    
+}
+
+#page-auth {    
+
+    footer {   
+               
+        display: flex;
+        justify-content: center;
+        align-items: flex-end; 
+        position: absolute;
+        bottom: 5px;
+        right: 230px;                                  
+                            
+        font-size: 12px;        
+                 
+        color: #313131;
+        text-align: center;
+
+        #face {
+            margin-right: 2px;
+        }
+
+        #inst {
+            margin-left: 5px;
+        }
+    }
+
+    div.separator {
+        color: #313131;
+    }  
+    
+}
+
+
+
+
+
+
+
