@@ -82,7 +82,7 @@ export function Home() {
             </main>
             <footer className="rodape">
                 <p>
-                     Desenvolvido por Edmundo Neto - 2021 <br/>                
+                     Desenvolvido por ... - 2021 <br/>                
                     <a href="" target="_blank" rel="noreferrer" id="face">Facebook</a> || 
                     <a href="" target="_blank" rel="noreferrer" id="inst">Instagram</a>
                 </p>
