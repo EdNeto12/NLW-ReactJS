@@ -83,8 +83,8 @@ export function Home() {
             <footer className="rodape">
                 <p>
                      Desenvolvido por Edmundo Neto - 2021 <br/>                
-                    <a href="https://www.facebook.com/edmundo.sebadelhe" target="_blank" rel="noreferrer" id="face">Facebook</a> || 
-                    <a href="https://www.instagram.com/esvneto/" target="_blank" rel="noreferrer" id="inst">Instagram</a>
+                    <a href="" target="_blank" rel="noreferrer" id="face">Facebook</a> || 
+                    <a href="" target="_blank" rel="noreferrer" id="inst">Instagram</a>
                 </p>
             </footer>
         </div> 
